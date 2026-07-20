@@ -1,8 +1,8 @@
 export const profile = {
   name: "Ayyan Babar",
   role: "Data Systems Engineer",
-  email: "ayyan.babar@octopusdtl.com",
-  linkedin: "https://www.linkedin.com",
+  email: "ayyanbabar11@gmail.com",
+  linkedin: "https://www.linkedin.com/in/ayyan-babar1/",
   headline: "I build reliable real-time data systems for industrial operations.",
   summary:
     "I work where backend engineering, cloud data platforms, industrial telemetry, and cybersecurity awareness meet. My focus is production systems: clean ingestion, reliable streaming, observable failures, and recovery paths that teams can actually operate.",

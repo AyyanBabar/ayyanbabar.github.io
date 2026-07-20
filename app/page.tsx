@@ -175,7 +175,7 @@ export default function Home() {
         </Reveal>
         <Reveal className="contact-links">
           <a href={`mailto:${profile.email}`}>{profile.email}</a>
-          <a href={profile.linkedin} target="_blank" rel="noreferrer">LinkedIn / update URL</a>
+          <a href={profile.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
         </Reveal>
       </footer>
     </main>
